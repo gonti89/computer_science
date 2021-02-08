@@ -8,21 +8,21 @@ If you want understand something, implement it. Always catch a concept, deeply u
  - how c++ works
  - distributed systems
  - data enginerring tools
-  - hdfs
-  - kafka
-  - hadoop
-  - spark
-  - flink
-  - zookepper
-  - airflow
-  - sql
-  - cassandra
-  - mongoDB
-  - HBase
-  - Hive
-  - presto
-  - elastick stack
-  - rest
-  - lambda architecture 
+   - hdfs
+   - kafka
+   - hadoop
+   - spark
+   - flink
+   - zookepper
+   - airflow
+   - sql
+   - cassandra
+   - mongoDB
+   - HBase
+   - Hive
+   - presto
+   - elastick stack
+   - rest
+   - lambda architecture 
  - networking (what is what and how they works)
  - 
